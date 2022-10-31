@@ -1,6 +1,6 @@
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jae%20Heon%20Jeong&fontSize=30)
 
-<div align=center>
 ### BaekJoon Stats🎲
 <br>
 <p align="center">
