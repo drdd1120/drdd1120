@@ -1,6 +1,6 @@
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jae%20Heon%20Jeong&fontSize=30)
 
+<div align=center>
 ### BaekJoon Stats🎲
 <br>
 <p align="center">
@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=drdd1120&show_icons=true&theme=dark"/>
 </p>
 
-
+</div>
 
 <!--
 - 🔭 I’m currently working on ...
@@ -27,4 +27,4 @@
 - ⚡ Fun fact: ...
 -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
-</div>
+
