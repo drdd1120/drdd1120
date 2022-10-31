@@ -3,7 +3,7 @@
 <h3 align="center"> BaekJoon Stats🎲
 <br/><br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=JaeHeon Jeong)](https://solved.ac/drdd1120/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=drdd1120)](https://solved.ac/drdd1120/)
 
 <br/>
 
