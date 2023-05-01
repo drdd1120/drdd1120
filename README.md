@@ -12,11 +12,4 @@
    
 ![drdd1120's github stats](https://github-readme-stats.vercel.app/api?username=drdd1120&show_icons=true)
 
-<br/><br/>
-
-프로젝트목록 | 일자 | 사용기술
-------------|------|-------|
-이미지 생성 | 2021 | GAN |
-객체탐지 | 2022 | YOLO |
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
